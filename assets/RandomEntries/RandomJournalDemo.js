@@ -70,6 +70,7 @@ function randoMath(max, min) {
     "title": "",
     "content": "",
     "author": "",
-    "time": 
+    "time": ""
 },
+Replacement for quotation marks: &quot;
 */
